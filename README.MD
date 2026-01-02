@@ -15,7 +15,7 @@ A aplicação permite realizar operações matemáticas básicas em uma interfac
 
 O layout da calculadora foi baseado no protótipo desenvolvido no Figma:
 
-🔗 **Figma – Calculadora (Community)**  [![Figma](https://img.shields.io/badge/Figma-Community-blue?logo=figma&logoColor=white)](https://www.figma.com/design/nulOEd2iQGq0XpkTvSNgae/Calculadora--Community---Copy-?node-id=0-1)
+🔗 **Figma – Calculadora (Community)**  [Figma](https://www.figma.com/design/nulOEd2iQGq0XpkTvSNgae/Calculadora--Community---Copy-?node-id=0-1)
 
 
 ## 📸 Preview do Projeto
